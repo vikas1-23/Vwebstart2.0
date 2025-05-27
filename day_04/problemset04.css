@@ -1,0 +1,33 @@
+ 
+#menu{
+    background-color: rgb(0, 153, 255);
+padding: 20px;
+border: 2px solid#cccccc;
+width: 300px;
+color: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+    font-weight: bold;
+    word-spacing: 20px;
+
+}
+margin-bottom: 30px;
+
+.menu-item{
+    color-interpolation-filters: rgb(175, 125, 164);
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 1px;
+    transition: red 0.3s;
+    border-style: double;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px rgba(223, 66, 152, 0.1);
+    
+}
+.promo-viedo{
+    width: 100% ;
+    animation-play-state: running;
+    
+}
